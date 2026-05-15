@@ -39,12 +39,12 @@ const projects = [
         link: "#",
         tags: ["HTML", "CSS", "JavaScript"],
     },
-    // {
-    //     title: "Next Project",
-    //     description: "Coming soon — I'll add the next thing I build right here.",
-    //     link: "https://github.com/yourusername/next-project",
-    //     tags: ["JavaScript"],
-    // },
+    {
+        title: "Next Project",
+        description: "Coming soon — I'll add the next thing I build right here.",
+        link: "#",
+        tags: ["JavaScript"],
+    },
 ];
 
 const grid = document.querySelector("#projects-grid");
